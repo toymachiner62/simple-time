@@ -4,7 +4,7 @@
   "description": "Super simple javascript time methods that calculate to milliseconds",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    
   },
   "repository": {
     "type": "git",
