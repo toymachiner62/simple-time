@@ -1,4 +1,4 @@
-# time
+# simple-time [![Build Status](https://travis-ci.org/toymachiner62/simple-time.svg)](https://travis-ci.org/toymachiner62/simple-time)
 
 > Super simple javascript time methods so you don't have to calculate milliseconds.
 
