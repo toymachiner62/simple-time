@@ -11,7 +11,7 @@ This library is extremely simple and allows you to specify time in milliseconds 
 All of these methods produce time in milliseconds.
 
 ```js
-var Time = require('time');
+var Time = require('simple-time');
 
 console.log(Time.MINUTE)			// A minute
 console.log(5 * Time.MINUTE)	// 5 minutes
